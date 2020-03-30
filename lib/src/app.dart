@@ -8,7 +8,7 @@ class App extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData.dark(),
       home: Scaffold(
-        appBar: AppBar(title: Text('Peliculas App')),
+        appBar: AppBar(title: Text('Peliculas App 12')),
         body: MovieList(),
         floatingActionButton: FloatingActionButton(
           child: Icon(Icons.movie),
